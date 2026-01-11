@@ -30,8 +30,8 @@ From the provided list of 10 housekeeping genes, I selected:
 - **Product Size:** 80 bp (within 80-200 bp requirement)
 - **Exon-Exon Junction:** Spans exon boundary 376/377
 - **Self-Complementarity:** Low scores (4.0, 3.0) - minimal primer-dimer risk
-<img width="1794" height="911" alt="primer-blast-results 1" src="https://github.com/user-attachments/assets/4d54d731-70db-4955-aa57-5d52ddd66ede" />
 <img width="1821" height="933" alt="primer-blast-results" src="https://github.com/user-attachments/assets/1aa7dee4-522e-4401-946d-c7a22b648677" />
+<img width="1794" height="911" alt="primer-blast-results 1" src="https://github.com/user-attachments/assets/4d54d731-70db-4955-aa57-5d52ddd66ede" />
 <img width="1725" height="431" alt="primer-blast-results 2" src="https://github.com/user-attachments/assets/9c10e977-de90-4635-8767-005034ed17dc" />
 
 - # Part 4: Specificity Check
